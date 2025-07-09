@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "teste-1",
-    "slug": "snack-51dbe914-aa3f-4ad6-811c-c2e00d2214fe",
+    "name": "teste-2",
+    "slug": "snack-876170c9-eed6-4785-83f5-f8779bf68b35",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -19,7 +19,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "edgeToEdgeEnabled": true
     },
     "web": {
       "favicon": "./assets/favicon.png"
